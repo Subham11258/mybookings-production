@@ -4,7 +4,7 @@ module.exports = function(req,res,next){
     //get the token
     //verify the token
     //get the user out of the token
-    //
+    //jwt token
     //Bearer token
     
     try{
